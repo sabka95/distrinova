@@ -1,0 +1,11 @@
+# Fichiers temporaires Office
+~$*
+*.tmp
+
+# Fichiers système
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Sauvegardes automatiques Power BI
+*.pbix.bak

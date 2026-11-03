@@ -1,0 +1,4 @@
+# Ne jamais convertir les fins de ligne des données (BULK INSERT attend CRLF)
+*.csv -text
+*.xlsx binary
+*.pbix binary

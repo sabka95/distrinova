@@ -1,0 +1,10 @@
+﻿ticket;machine;ouverture;cloture;type_panne;technicien;cout
+INT-2025-0089;M002;30/07/2025 10:22;01/08/2025 08:46;réfrigération;Yanis Robert;303,52 €
+INT-2025-0092;M024;01/08/2025 15:38;02/08/2025 07:59;Hydraulique;Sofiane Haddad;107,38
+INT-2025-0093;M004;03/08/2025 13:37;03/08/2025 20:53;monnayeur;Sofiane Haddad;147,60 €
+INT-2025-0094;M028;23/08/2025 13:41;25/08/2025 13:50;Télémétrie;Hugo Lambert;48,34 €
+INT-2025-0095;M001;24/08/2025 13:32;24/08/2025 17:11;Spirale bloquée;Sofiane Haddad;42,89 €
+INT-2025-0096;M002;25/08/2025 14:35;27/08/2025 01:51;Groupe froid HS;Sofiane Haddad;296,82 €
+INT-2025-0097;M005;29/08/2025 12:00;29/08/2025 15:27;Gobelet coincé;Hugo Lambert;54,55
+INT-2025-0098;M029;29/08/2025 16:29;29/08/2025 20:54;Spirale bloquée;Yanis Robert;47,62
+INT-2025-0099;M034;30/08/2025 14:30;;Modem;Hugo Lambert;

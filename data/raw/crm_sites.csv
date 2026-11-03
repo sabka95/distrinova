@@ -1,0 +1,28 @@
+﻿id_site;raison_sociale;secteur;ville;code_postal;effectif;date_debut_contrat;date_fin_contrat;taux_commission;commercial
+S001;Clinique des Tilleuls;Santé;Eaubonne;95600;420;01/03/2019;;6%;Julie Martin
+S002;Entrepôt LogiNord;logistique;GONESSE;95500;380;2020-06-15;;0,08;Karim Benali
+S003;Altima Conseil;Bureaux;Courbevoie;92400;260;10/01/2021;;5;Thomas Lefèvre
+S004;Institut Supérieur du Numérique;Enseignement sup.;Cergy ;95800;900;01/09/2018;;7 %;julie martin
+S005;Ateliers Mécaniques de l'Oise;Industrie;St Ouen l'Aumone;95310;310;03/04/2017;;0,04;KARIM BENALI
+S006;FitCity Herblay;Sport;Herblay;95220;;2022-02-14;;10%;Julie  Martin
+S007;Hôtel d'agglomération;Admin;CERGY;95 800;350;04/11/2019;;0;Thomas Lefevre
+S008;Cabinet Dufresne Expertise;bureaux;Pontoise;95300;35;02/05/2022;;12 %;Thomas Lefèvre
+S009;Imprimerie Duval;industrie;Argenteuil;95100 ;90;15/01/2018;30/06/2025;7%;THOMAS LEFEVRE
+S010;Data Center Orion;Indus.;Villepinte;93420;60;2024-09-02;;0,05;Karim Benali
+S011;Concession AutoPlus;Commerce;Sartrouville;78500;45;20/09/2021;;10;Julie Martin
+S012;ExpressLog Roissy;Logistique;Roissy CDG;95700;520;13/05/2019;;6 %;Karim Benali
+S013;Résidence Les Glycines;Sante;Conflans Ste Honorine;78700;70;05/10/2020;;9%;Julie Martin
+S014;Technopole Rueil Bât. B;BUREAUX ;Rueil Malmaison;92500;600;19/03/2018;;0,07;Thomas Lefèvre
+S015;Studio Pixelia;Bureau;Osny;95520;22;2023-02-06;;8 %;thomas lefèvre
+S016;Centre aquatique Les Rives;sport;POISSY;78300;40;27/04/2020;;0,1;Julie Martin
+S017;Laboratoires BioVal;Industrie;Gennevilliers;92230;280;08/07/2019;;5%;Karim Benali
+S018;TeleServ Centre de contacts;Bureaux;Saint Denis;93200;400;01/03/2021;;6;Karim Benali 
+S019;TransMaint Poids Lourds;INDUSTRIE;Les Mureaux;78130;55;17/10/2022;;7 %;Karim Benali
+S020;Hôpital privé Nord-Ouest;Santé;St-Germain-en-Laye;78100;650;11/09/2017;;0,06;Julie Martin
+S021;Business School Nanterre;Enseignement;Nanterre;92000;1100;02/09/2019;;7%;Thomas Lefèvre
+S022;Groupe Verdier BTP;Bureaux;Franconville;95130;150;20/01/2020;;5 %;JULIE MARTIN
+S014;Technopole Rueil Bât. B ;Bureaux;RUEIL-MALMAISON;92500;600;19/03/2018;;0,07;Thomas Lefèvre
+S023;FroidFrais Bezons;Logistique;Bezons;95870;140;2022-06-07;;0,07;Karim Benali
+S024;Coworking Le Hub;;Ermont;95120;60;03/04/2023;;12%;Julie Martin
+S025;Centre technique municipal;Administration;Sarcelles;95200;110;14/06/2021;;0%;Karim Benali
+S026;FitCity Argenteuil;Sport;ARGENTEUIL;95100;;09/01/2023;;10 %;Julie Martin

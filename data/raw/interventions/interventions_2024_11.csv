@@ -1,0 +1,9 @@
+﻿ticket;machine;ouverture;cloture;type_panne;technicien;cout
+INT-2024-0135;M023;03/11/2024 12:35;05/11/2024 05:30;Réfrigération;Lucas Petit;221,30
+INT-2024-0136;M038;06/11/2024 17:28;07/11/2024 22:21;Réfrigération;Sofiane Haddad;262,73 €
+INT-2024-0137;M008;07/11/2024 16:58;09/11/2024 00:58;Electrique;Sofiane Haddad;209,78 €
+INT-2024-0138;M028;16/11/2024 19:30;16/11/2024 23:01;Bourrage;Lucas Petit;93,92 €
+INT-2024-0139;M035;18/11/2024 17:30;18/11/2024 23:52;Monnayeur;Sofiane Haddad;130,41
+INT-2024-0140;M031;19/11/2024 12:09;19/11/2024 22:50;fuite;Hugo Lambert;153,53 €
+INT-2024-0141;M007;20/11/2024 10:53;20/11/2024 21:38;Monnayeur;Hugo Lambert;121,84
+INT-2024-0142;M005;23/11/2024 11:15;24/11/2024 01:06;Modem;Lucas Petit;45,68 €

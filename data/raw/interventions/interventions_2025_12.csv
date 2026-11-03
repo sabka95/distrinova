@@ -1,0 +1,14 @@
+﻿ticket;machine;ouverture;cloture;type_panne;technicien;cout
+INT-2025-0149;M012;30/11/2025 18:58;02/12/2025 22:05;Refrigeration;Yanis Robert;242,56 €
+INT-2025-0150;M043;30/11/2025 22:52;04/12/2025 12:38;réfrigération;Yanis Robert;460,53 €
+INT-2025-0151;M027;01/12/2025 13:39;01/12/2025 21:59;Monnayeur;Lucas Petit;93,14 €
+INT-2025-0152;M003;04/12/2025 16:49;05/12/2025 03:20;Lecteur CB HS;Yanis Robert;204,48
+INT-2025-0153;M042;05/12/2025 13:09;08/12/2025 08:04;Electrique;Hugo Lambert;237,86
+INT-2025-0154;M038;08/12/2025 14:26;09/12/2025 22:07;Réfrigération;Hugo Lambert;304,22 €
+INT-2025-0155;M027;12/12/2025 09:39;12/12/2025 19:45;bourrage spirale;Hugo Lambert;96,92
+INT-2025-0156;M032;12/12/2025 18:10;14/12/2025 14:59;Groupe froid HS;Sofiane Haddad;252,95
+INT-2025-0157;M037;16/12/2025 13:22;17/12/2025 22:52;Électrique;Sofiane Haddad;246,14
+INT-2025-0158;M028;18/12/2025 12:25;19/12/2025 07:35;Modem;Hugo Lambert;71,14
+INT-2025-0159;M015;23/12/2025 14:22;23/12/2025 18:14;Paiement;Sofiane Haddad;123,72 €
+INT-2025-0160;M043;30/12/2025 16:20;;Groupe froid HS;Yanis Robert;
+INT-2025-0161;M005;31/12/2025 18:05;;Paiement;Hugo Lambert;

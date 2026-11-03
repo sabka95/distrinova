@@ -1,0 +1,14 @@
+﻿ticket;machine;ouverture;cloture;type_panne;technicien;cout
+INT-2024-0122;M042;02/10/2024 09:33;03/10/2024 14:02;Connectivité;Yanis Robert;59,58 €
+INT-2024-0123;M012;03/10/2024 12:16;04/10/2024 23:39;Réfrigération;Hugo Lambert;258,17
+INT-2024-0124;M020;04/10/2024 12:07;04/10/2024 04:12;Pas de remontée;Lucas Petit;65,76 €
+INT-2024-0125;M018;07/10/2024 19:41;07/10/2024 23:16;Distribution;Sofiane Haddad;31,39 €
+INT-2024-0126;M020;11/10/2024 08:20;12/10/2024 20:34;Fuite d'eau;Sofiane Haddad;142,85
+INT-2024-0127;M037;14/10/2024 13:26;15/10/2024 11:28;Connectivité;Hugo Lambert;65,09 €
+INT-2024-0128;M038;15/10/2024 15:10;17/10/2024 12:36;réfrigération;Lucas Petit;376,72 €
+INT-2024-0129;M030;21/10/2024 06:35;22/10/2024 02:47;fuite;Lucas Petit;162,89 €
+INT-2024-0130;M035;22/10/2024 15:37;25/10/2024 13:59;Froid;Sofiane Haddad;233,83 €
+INT-2024-0131;M031;24/10/2024 09:57;24/10/2024 19:43;Monnayeur;Hugo Lambert;109,80 €
+INT-2024-0132;M030;28/10/2024 15:29;28/10/2024 20:15;Monnayeur;Yanis Robert;115,13 €
+INT-2024-0133;M019;31/10/2024 12:22;31/10/2024 16:01;bourrage spirale;Lucas Petit;74,59 €
+INT-2024-0134;M033;31/10/2024 14:53;31/10/2024 23:37;Fuite d'eau;Hugo Lambert;104,84 €

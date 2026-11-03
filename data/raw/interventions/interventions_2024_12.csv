@@ -1,0 +1,9 @@
+﻿ticket;machine;ouverture;cloture;type_panne;technicien;cout
+INT-2024-0143;M024;01/12/2024 09:33;01/12/2024 22:31;Pas de remontée;Sofiane Haddad;41,58 €
+INT-2024-0144;M002;07/12/2024 12:00;09/12/2024 06:10;Refrigeration;Yanis Robert;261,42
+INT-2024-0145;M031;11/12/2024 14:49;11/12/2024 22:03;Distribution;Yanis Robert;74,94
+INT-2024-0146;M012;16/12/2024 12:32;19/12/2024 02:21;Électrique;Hugo Lambert;175,72
+INT-2024-0147;M002;21/12/2024 13:44;22/12/2024 20:27;Réfrigération;Sofiane Haddad;164,78 €
+INT-2024-0148;M004;23/12/2024 07:15;23/12/2024 11:29;Monnayeur HS;Hugo Lambert;103,96 €
+INT-2024-0149;M013;23/12/2024 17:17;24/12/2024 06:49;Lecteur CB HS;Yanis Robert;175,81 €
+INT-2024-0150;M043;27/12/2024 15:30;30/12/2024 17:13;Refrigeration;Lucas Petit;401,88 €

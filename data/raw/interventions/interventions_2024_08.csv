@@ -1,0 +1,14 @@
+﻿ticket;machine;ouverture;cloture;type_panne;technicien;cout
+INT-2024-0093;M002;01/08/2024 07:42;03/08/2024 17:52;Carte électronique;Hugo Lambert;142,71
+INT-2024-0094;M039;01/08/2024 10:32;03/08/2024 03:34;Panne élec.;Hugo Lambert;154,93 €
+INT-2024-0095;M005;01/08/2024 12:40;01/08/2024 20:06;Monnayeur;Yanis Robert;166,73 €
+INT-2024-0096;M032;06/08/2024 12:41;06/08/2024 17:53;Distribution;Yanis Robert;53,58 €
+INT-2024-0097;M011;08/08/2024 15:55;09/08/2024 10:40;Froid;Sofiane Haddad;315,34
+INT-2024-0098;M002;10/08/2024 15:46;12/08/2024 03:17;Réfrigération;Sofiane Haddad;247,42 €
+INT-2024-0099;M036;13/08/2024 11:03;13/08/2024 15:43;Gobelet coincé;Hugo Lambert;71,48
+INT-2024-0100;M040;17/08/2024 13:14;18/08/2024 09:17;Lecteur CB HS;Lucas Petit;126,09 €
+INT-2024-0101;M032;21/08/2024 18:08;23/08/2024 10:36;Carte électronique;Sofiane Haddad;182,14 €
+INT-2024-0102;M040;22/08/2024 14:58;23/08/2024 10:31;Paiement;Sofiane Haddad;114,74
+INT-2024-0103;M023;25/08/2024 12:29;27/08/2024 13:38;Groupe froid HS;Sofiane Haddad;356,86 €
+INT-2024-0104;M007;28/08/2024 13:41;28/08/2024 16:51;Spirale bloquée;Hugo Lambert;97,60
+INT-2024-0105;M019;31/08/2024 18:27;;Pas de remontée;Sofiane Haddad;
