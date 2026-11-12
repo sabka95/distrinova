@@ -1,0 +1,322 @@
+﻿id_ticket;id_machine;date_ouverture;date_cloture;type_panne;technicien;cout_ht;fichier_source
+INT-2024-0001;M002;02/01/2024 11:09;03/01/2024 22:01;Réfrigération;Sofiane Haddad;235,93;interventions_2024_01.csv
+INT-2024-0002;M043;06/01/2024 08:24;07/01/2024 20:41;Réfrigération;Sofiane Haddad;292,64;interventions_2024_01.csv
+INT-2024-0003;M020;09/01/2024 09:26;09/01/2024 12:29;Distribution;Hugo Lambert;37,59;interventions_2024_01.csv
+INT-2024-0004;M026;10/01/2024 10:53;10/01/2024 20:49;Distribution;Hugo Lambert;72,42;interventions_2024_01.csv
+INT-2024-0005;M001;12/01/2024 17:32;13/01/2024 06:15;Monnayeur / paiement;Sofiane Haddad;89,52;interventions_2024_01.csv
+INT-2024-0006;M040;13/01/2024 09:50;14/01/2024 18:16;Électrique;Sofiane Haddad;214,51;interventions_2024_01.csv
+INT-2024-0007;M023;15/01/2024 22:04;17/01/2024 13:21;Réfrigération;Sofiane Haddad;359,31;interventions_2024_01.csv
+INT-2024-0008;M041;18/01/2024 10:41;18/01/2024 17:33;Hydraulique;Sofiane Haddad;123,25;interventions_2024_01.csv
+INT-2024-0009;M005;23/01/2024 11:58;23/01/2024 14:04;Distribution;Hugo Lambert;40,51;interventions_2024_01.csv
+INT-2024-0010;M038;23/01/2024 11:59;25/01/2024 01:51;Réfrigération;Yanis Robert;235,19;interventions_2024_01.csv
+INT-2024-0011;M032;24/01/2024 11:22;24/01/2024 16:03;Distribution;Yanis Robert;50,35;interventions_2024_01.csv
+INT-2024-0012;M043;24/01/2024 13:29;27/01/2024 22:50;Réfrigération;Lucas Petit;307,66;interventions_2024_01.csv
+INT-2024-0013;M041;26/01/2024 09:35;26/01/2024 15:35;Hydraulique;Lucas Petit;128,31;interventions_2024_01.csv
+INT-2024-0014;M035;27/01/2024 19:23;28/01/2024 03:18;Distribution;Lucas Petit;99,25;interventions_2024_01.csv
+INT-2024-0015;M009;02/02/2024 19:41;04/02/2024 11:26;Connectivité;Lucas Petit;62,06;interventions_2024_02.csv
+INT-2024-0016;M017;07/02/2024 07:40;07/02/2024 11:15;Distribution;Yanis Robert;93,22;interventions_2024_02.csv
+INT-2024-0017;M013;08/02/2024 14:10;09/02/2024 01:04;Hydraulique;Hugo Lambert;141,45;interventions_2024_02.csv
+INT-2024-0018;M041;08/02/2024 14:24;09/02/2024 00:55;Hydraulique;Sofiane Haddad;179,31;interventions_2024_02.csv
+INT-2024-0019;M026;08/02/2024 18:04;08/02/2024 19:21;Distribution;Lucas Petit;49,78;interventions_2024_02.csv
+INT-2024-0020;M031;09/02/2024 09:32;13/02/2024 03:37;Connectivité;Lucas Petit;41,81;interventions_2024_02.csv
+INT-2024-0021;M021;12/02/2024 10:33;13/02/2024 08:49;Monnayeur / paiement;Sofiane Haddad;105,17;interventions_2024_02.csv
+INT-2024-0022;M033;13/02/2024 06:30;13/02/2024 17:46;Monnayeur / paiement;Lucas Petit;138,02;interventions_2024_02.csv
+INT-2024-0023;M019;16/02/2024 11:23;17/02/2024 15:42;Connectivité;Sofiane Haddad;59,62;interventions_2024_02.csv
+INT-2024-0024;M007;16/02/2024 15:31;16/02/2024 21:28;Distribution;Lucas Petit;64,91;interventions_2024_02.csv
+INT-2024-0025;M023;20/02/2024 11:00;21/02/2024 21:08;Réfrigération;Sofiane Haddad;330,1;interventions_2024_02.csv
+INT-2024-0026;M002;27/02/2024 19:32;28/02/2024 00:34;Monnayeur / paiement;Yanis Robert;193,62;interventions_2024_02.csv
+INT-2024-0027;M033;01/03/2024 16:14;02/03/2024 06:18;Monnayeur / paiement;Sofiane Haddad;103,96;interventions_2024_03.csv
+INT-2024-0028;M014;04/03/2024 10:55;04/03/2024 17:13;Distribution;Lucas Petit;48;interventions_2024_03.csv
+INT-2024-0029;M038;11/03/2024 15:08;13/03/2024 02:03;Réfrigération;Lucas Petit;390,63;interventions_2024_03.csv
+INT-2024-0030;M033;14/03/2024 09:49;14/03/2024 23:16;Monnayeur / paiement;Hugo Lambert;140,68;interventions_2024_03.csv
+INT-2024-0031;M025;14/03/2024 13:15;14/03/2024 21:02;Connectivité;Sofiane Haddad;53,89;interventions_2024_03.csv
+INT-2024-0032;M038;20/03/2024 17:07;21/03/2024 00:03;Monnayeur / paiement;Lucas Petit;114,37;interventions_2024_03.csv
+INT-2024-0033;M042;21/03/2024 09:25;21/03/2024 11:28;Monnayeur / paiement;Hugo Lambert;91,38;interventions_2024_03.csv
+INT-2024-0034;M012;21/03/2024 20:47;22/03/2024 03:07;Distribution;Hugo Lambert;98,86;interventions_2024_03.csv
+INT-2024-0035;M012;22/03/2024 12:56;24/03/2024 01:20;Réfrigération;Hugo Lambert;233,33;interventions_2024_03.csv
+INT-2024-0036;M043;22/03/2024 22:01;24/03/2024 14:30;Réfrigération;Lucas Petit;291,41;interventions_2024_03.csv
+INT-2024-0037;M017;26/03/2024 09:11;26/03/2024 15:30;Connectivité;Hugo Lambert;46,11;interventions_2024_03.csv
+INT-2024-0038;M040;26/03/2024 17:18;27/03/2024 00:04;Monnayeur / paiement;Lucas Petit;83,88;interventions_2024_03.csv
+INT-2024-0039;M036;27/03/2024 11:26;27/03/2024 20:22;Distribution;Yanis Robert;77,63;interventions_2024_03.csv
+INT-2024-0040;M030;30/03/2024 08:29;30/03/2024 14:12;Monnayeur / paiement;Yanis Robert;67,6;interventions_2024_03.csv
+INT-2024-0041;M024;31/03/2024 16:21;;Hydraulique;Yanis Robert;;interventions_2024_03.csv
+INT-2024-0041;M024;31/03/2024 16:21;01/04/2024 03:06;Hydraulique;Yanis Robert;82,62;interventions_2024_04.csv
+INT-2024-0042;M021;03/04/2024 13:59;03/04/2024 16:06;Monnayeur / paiement;Lucas Petit;120,4;interventions_2024_04.csv
+INT-2024-0043;M017;08/04/2024 14:38;08/04/2024 17:04;Distribution;Hugo Lambert;74,51;interventions_2024_04.csv
+INT-2024-0044;M023;11/04/2024 06:23;12/04/2024 16:56;Électrique;Hugo Lambert;131,82;interventions_2024_04.csv
+INT-2024-0045;M014;11/04/2024 16:04;14/04/2024 19:16;Connectivité;Hugo Lambert;52,72;interventions_2024_04.csv
+INT-2024-0046;M035;12/04/2024 11:26;13/04/2024 11:24;Connectivité;Yanis Robert;58,18;interventions_2024_04.csv
+INT-2024-0047;M005;13/04/2024 10:35;14/04/2024 22:06;Électrique;Hugo Lambert;200,85;interventions_2024_04.csv
+INT-2024-0048;M023;14/04/2024 13:50;18/04/2024 10:05;Réfrigération;Yanis Robert;577,28;interventions_2024_04.csv
+INT-2024-0049;M040;17/04/2024 23:56;18/04/2024 23:43;Connectivité;Hugo Lambert;42,13;interventions_2024_04.csv
+INT-2024-0050;M030;19/04/2024 18:08;19/04/2024 21:15;Monnayeur / paiement;Yanis Robert;134,17;interventions_2024_04.csv
+INT-2024-0051;M023;24/04/2024 16:22;26/04/2024 08:29;Réfrigération;Lucas Petit;354,87;interventions_2024_04.csv
+INT-2024-0052;M010;25/04/2024 13:44;26/04/2024 01:49;Monnayeur / paiement;Sofiane Haddad;157,87;interventions_2024_04.csv
+INT-2024-0053;M040;28/04/2024 13:05;28/04/2024 20:04;Connectivité;Sofiane Haddad;81,8;interventions_2024_04.csv
+INT-2024-0054;M038;30/04/2024 14:19;;Réfrigération;Sofiane Haddad;;interventions_2024_04.csv
+INT-2024-0055;M011;30/04/2024 14:19;;Réfrigération;Hugo Lambert;;interventions_2024_04.csv
+INT-2024-0056;M043;30/04/2024 17:49;;Distribution;Sofiane Haddad;;interventions_2024_04.csv
+INT-2024-0054;M038;30/04/2024 14:19;06/05/2024 10:19;Réfrigération;Sofiane Haddad;221,54;interventions_2024_05.csv
+INT-2024-0055;M011;30/04/2024 14:19;01/05/2024 12:08;Réfrigération;Hugo Lambert;332,95;interventions_2024_05.csv
+INT-2024-0056;M043;30/04/2024 17:49;01/05/2024 13:13;Distribution;Sofiane Haddad;38,4;interventions_2024_05.csv
+INT-2024-0057;M042;06/05/2024 13:04;06/05/2024 21:24;Monnayeur / paiement;Sofiane Haddad;88,79;interventions_2024_05.csv
+INT-2024-0058;M032;06/05/2024 17:36;07/05/2024 12:28;Monnayeur / paiement;Sofiane Haddad;117,28;interventions_2024_05.csv
+INT-2024-0059;M031;07/05/2024 09:36;07/05/2024 19:33;Connectivité;Lucas Petit;37,26;interventions_2024_05.csv
+INT-2024-0060;M038;07/05/2024 15:03;10/05/2024 19:00;Réfrigération;Lucas Petit;278,93;interventions_2024_05.csv
+INT-2024-0061;M041;07/05/2024 15:34;08/05/2024 01:17;Hydraulique;Lucas Petit;129,16;interventions_2024_05.csv
+INT-2024-0062;M030;10/05/2024 06:34;10/05/2024 22:43;Hydraulique;Yanis Robert;99,37;interventions_2024_05.csv
+INT-2024-0063;M033;15/05/2024 13:45;15/05/2024 20:32;Distribution;Sofiane Haddad;33,19;interventions_2024_05.csv
+INT-2024-0064;M039;17/05/2024 16:07;18/05/2024 06:44;Électrique;Sofiane Haddad;158,46;interventions_2024_05.csv
+INT-2024-0065;M022;18/05/2024 12:40;18/05/2024 19:49;Connectivité;Lucas Petit;73,16;interventions_2024_05.csv
+INT-2024-0066;M017;21/05/2024 07:14;21/05/2024 12:30;Distribution;Sofiane Haddad;73,94;interventions_2024_05.csv
+INT-2024-0067;M025;21/05/2024 12:39;21/05/2024 19:36;Hydraulique;Lucas Petit;87,2;interventions_2024_05.csv
+INT-2024-0068;M008;27/05/2024 13:11;27/05/2024 22:33;Connectivité;Hugo Lambert;49,8;interventions_2024_05.csv
+INT-2024-0069;M017;28/05/2024 17:44;29/05/2024 02:54;Monnayeur / paiement;Sofiane Haddad;98,98;interventions_2024_05.csv
+INT-2024-0070;M043;31/05/2024 19:11;;Réfrigération;Yanis Robert;;interventions_2024_05.csv
+INT-2024-0070;M043;31/05/2024 19:11;01/06/2024 20:42;Réfrigération;Yanis Robert;389,45;interventions_2024_06.csv
+INT-2024-0071;M017;08/06/2024 09:37;08/06/2024 13:01;Monnayeur / paiement;Lucas Petit;113,14;interventions_2024_06.csv
+INT-2024-0072;M033;11/06/2024 09:15;11/06/2024 17:25;Monnayeur / paiement;Lucas Petit;127,84;interventions_2024_06.csv
+INT-2024-0073;M029;11/06/2024 21:18;12/06/2024 05:14;Distribution;Hugo Lambert;42,49;interventions_2024_06.csv
+INT-2024-0074;M026;14/06/2024 13:26;14/06/2024 19:45;Monnayeur / paiement;Sofiane Haddad;76,53;interventions_2024_06.csv
+INT-2024-0075;M036;15/06/2024 20:55;17/06/2024 15:20;Réfrigération;Yanis Robert;350,07;interventions_2024_06.csv
+INT-2024-0076;M016;17/06/2024 11:09;17/06/2024 20:38;Monnayeur / paiement;Hugo Lambert;104,09;interventions_2024_06.csv
+INT-2024-0077;M009;17/06/2024 14:49;18/06/2024 17:32;Réfrigération;Lucas Petit;477,23;interventions_2024_06.csv
+INT-2024-0078;M042;20/06/2024 11:12;20/06/2024 23:01;Monnayeur / paiement;Lucas Petit;73,4;interventions_2024_06.csv
+INT-2024-0079;M019;21/06/2024 14:33;22/06/2024 21:03;Réfrigération;Yanis Robert;220,71;interventions_2024_06.csv
+INT-2024-0080;M009;25/06/2024 13:53;25/06/2024 18:13;Distribution;Sofiane Haddad;54,01;interventions_2024_06.csv
+INT-2024-0081;M022;29/06/2024 08:26;29/06/2024 12:39;Monnayeur / paiement;Lucas Petit;97,25;interventions_2024_06.csv
+INT-2024-0082;M006;03/07/2024 13:31;03/07/2024 23:18;Hydraulique;Yanis Robert;166,06;interventions_2024_07.csv
+INT-2024-0083;M023;07/07/2024 08:53;08/07/2024 19:34;Réfrigération;Lucas Petit;196,05;interventions_2024_07.csv
+INT-2024-0084;M022;08/07/2024 18:20;09/07/2024 00:59;Monnayeur / paiement;Yanis Robert;97,52;interventions_2024_07.csv
+INT-2024-0085;M011;10/07/2024 10:24;11/07/2024 22:43;Réfrigération;Sofiane Haddad;342,13;interventions_2024_07.csv
+INT-2024-0086;M007;13/07/2024 15:29;14/07/2024 03:11;Monnayeur / paiement;Lucas Petit;125,76;interventions_2024_07.csv
+INT-2024-0087;M001;14/07/2024 13:33;15/07/2024 01:46;Hydraulique;Yanis Robert;80,09;interventions_2024_07.csv
+INT-2024-0088;M006;18/07/2024 07:22;18/07/2024 11:43;Monnayeur / paiement;Sofiane Haddad;124,25;interventions_2024_07.csv
+INT-2024-0089;M011;19/07/2024 11:47;19/07/2024 17:20;Monnayeur / paiement;Yanis Robert;141,64;interventions_2024_07.csv
+INT-2024-0090;M021;23/07/2024 02:14;23/07/2024 15:54;Connectivité;Sofiane Haddad;65,47;interventions_2024_07.csv
+INT-2024-0091;M028;24/07/2024 12:27;24/07/2024 22:42;Monnayeur / paiement;Lucas Petit;80,45;interventions_2024_07.csv
+INT-2024-0092;M012;27/07/2024 17:22;27/07/2024 21:14;Monnayeur / paiement;Yanis Robert;100,73;interventions_2024_07.csv
+INT-2024-0093;M002;01/08/2024 07:42;03/08/2024 17:52;Électrique;Hugo Lambert;142,71;interventions_2024_08.csv
+INT-2024-0094;M039;01/08/2024 10:32;03/08/2024 03:34;Électrique;Hugo Lambert;154,93;interventions_2024_08.csv
+INT-2024-0095;M005;01/08/2024 12:40;01/08/2024 20:06;Monnayeur / paiement;Yanis Robert;166,73;interventions_2024_08.csv
+INT-2024-0096;M032;06/08/2024 12:41;06/08/2024 17:53;Distribution;Yanis Robert;53,58;interventions_2024_08.csv
+INT-2024-0097;M011;08/08/2024 15:55;09/08/2024 10:40;Réfrigération;Sofiane Haddad;315,34;interventions_2024_08.csv
+INT-2024-0098;M002;10/08/2024 15:46;12/08/2024 03:17;Réfrigération;Sofiane Haddad;247,42;interventions_2024_08.csv
+INT-2024-0099;M036;13/08/2024 11:03;13/08/2024 15:43;Distribution;Hugo Lambert;71,48;interventions_2024_08.csv
+INT-2024-0100;M040;17/08/2024 13:14;18/08/2024 09:17;Monnayeur / paiement;Lucas Petit;126,09;interventions_2024_08.csv
+INT-2024-0101;M032;21/08/2024 18:08;23/08/2024 10:36;Électrique;Sofiane Haddad;182,14;interventions_2024_08.csv
+INT-2024-0102;M040;22/08/2024 14:58;23/08/2024 10:31;Monnayeur / paiement;Sofiane Haddad;114,74;interventions_2024_08.csv
+INT-2024-0103;M023;25/08/2024 12:29;27/08/2024 13:38;Réfrigération;Sofiane Haddad;356,86;interventions_2024_08.csv
+INT-2024-0104;M007;28/08/2024 13:41;28/08/2024 16:51;Distribution;Hugo Lambert;97,6;interventions_2024_08.csv
+INT-2024-0105;M019;31/08/2024 18:27;;Connectivité;Sofiane Haddad;;interventions_2024_08.csv
+INT-2024-0105;M019;31/08/2024 18:27;01/09/2024 21:52;Connectivité;Sofiane Haddad;45,47;interventions_2024_09.csv
+INT-2024-0106;M013;05/09/2024 09:59;05/09/2024 22:54;Hydraulique;Yanis Robert;76,84;interventions_2024_09.csv
+INT-2024-0107;M035;06/09/2024 12:03;06/09/2024 22:30;Connectivité;Yanis Robert;54,62;interventions_2024_09.csv
+INT-2024-0108;M011;06/09/2024 14:40;08/09/2024 20:43;Réfrigération;Hugo Lambert;323,15;interventions_2024_09.csv
+INT-2024-0109;M024;09/09/2024 13:51;09/09/2024 18:20;Monnayeur / paiement;Sofiane Haddad;157,09;interventions_2024_09.csv
+INT-2024-0110;M038;12/09/2024 12:13;15/09/2024 18:26;Réfrigération;Sofiane Haddad;289,23;interventions_2024_09.csv
+INT-2024-0111;M014;16/09/2024 18:43;16/09/2024 21:16;Distribution;Hugo Lambert;77,56;interventions_2024_09.csv
+INT-2024-0112;M012;16/09/2024 19:53;18/09/2024 12:29;Réfrigération;Sofiane Haddad;375,26;interventions_2024_09.csv
+INT-2024-0113;M014;17/09/2024 08:15;17/09/2024 18:45;Monnayeur / paiement;Hugo Lambert;90,76;interventions_2024_09.csv
+INT-2024-0114;M037;18/09/2024 14:54;19/09/2024 13:42;Connectivité;Lucas Petit;49,82;interventions_2024_09.csv
+INT-2024-0115;M005;18/09/2024 20:34;18/09/2024 23:12;Distribution;Hugo Lambert;84,9;interventions_2024_09.csv
+INT-2024-0116;M037;19/09/2024 08:00;19/09/2024 19:24;Monnayeur / paiement;Hugo Lambert;95,8;interventions_2024_09.csv
+INT-2024-0117;M030;22/09/2024 14:00;22/09/2024 18:20;Monnayeur / paiement;Lucas Petit;180,29;interventions_2024_09.csv
+INT-2024-0118;M002;26/09/2024 16:18;29/09/2024 14:11;Réfrigération;Lucas Petit;297,43;interventions_2024_09.csv
+INT-2024-0119;M032;26/09/2024 18:05;26/09/2024 21:54;Distribution;Yanis Robert;79,16;interventions_2024_09.csv
+INT-2024-0120;M022;27/09/2024 11:01;27/09/2024 22:38;Monnayeur / paiement;Yanis Robert;132,89;interventions_2024_09.csv
+INT-2024-0121;M036;30/09/2024 13:36;30/09/2024 20:04;Monnayeur / paiement;Yanis Robert;128,48;interventions_2024_09.csv
+INT-2024-0122;M042;02/10/2024 09:33;03/10/2024 14:02;Connectivité;Yanis Robert;59,58;interventions_2024_10.csv
+INT-2024-0123;M012;03/10/2024 12:16;04/10/2024 23:39;Réfrigération;Hugo Lambert;258,17;interventions_2024_10.csv
+INT-2024-0124;M020;04/10/2024 12:07;04/10/2024 04:12;Connectivité;Lucas Petit;65,76;interventions_2024_10.csv
+INT-2024-0125;M018;07/10/2024 19:41;07/10/2024 23:16;Distribution;Sofiane Haddad;31,39;interventions_2024_10.csv
+INT-2024-0126;M020;11/10/2024 08:20;12/10/2024 20:34;Hydraulique;Sofiane Haddad;142,85;interventions_2024_10.csv
+INT-2024-0127;M037;14/10/2024 13:26;15/10/2024 11:28;Connectivité;Hugo Lambert;65,09;interventions_2024_10.csv
+INT-2024-0128;M038;15/10/2024 15:10;17/10/2024 12:36;Réfrigération;Lucas Petit;376,72;interventions_2024_10.csv
+INT-2024-0129;M030;21/10/2024 06:35;22/10/2024 02:47;Hydraulique;Lucas Petit;162,89;interventions_2024_10.csv
+INT-2024-0130;M035;22/10/2024 15:37;25/10/2024 13:59;Réfrigération;Sofiane Haddad;233,83;interventions_2024_10.csv
+INT-2024-0131;M031;24/10/2024 09:57;24/10/2024 19:43;Monnayeur / paiement;Hugo Lambert;109,8;interventions_2024_10.csv
+INT-2024-0132;M030;28/10/2024 15:29;28/10/2024 20:15;Monnayeur / paiement;Yanis Robert;115,13;interventions_2024_10.csv
+INT-2024-0133;M019;31/10/2024 12:22;31/10/2024 16:01;Distribution;Lucas Petit;74,59;interventions_2024_10.csv
+INT-2024-0134;M033;31/10/2024 14:53;31/10/2024 23:37;Hydraulique;Hugo Lambert;104,84;interventions_2024_10.csv
+INT-2024-0135;M023;03/11/2024 12:35;05/11/2024 05:30;Réfrigération;Lucas Petit;221,3;interventions_2024_11.csv
+INT-2024-0136;M038;06/11/2024 17:28;07/11/2024 22:21;Réfrigération;Sofiane Haddad;262,73;interventions_2024_11.csv
+INT-2024-0137;M008;07/11/2024 16:58;09/11/2024 00:58;Électrique;Sofiane Haddad;209,78;interventions_2024_11.csv
+INT-2024-0138;M028;16/11/2024 19:30;16/11/2024 23:01;Distribution;Lucas Petit;93,92;interventions_2024_11.csv
+INT-2024-0139;M035;18/11/2024 17:30;18/11/2024 23:52;Monnayeur / paiement;Sofiane Haddad;130,41;interventions_2024_11.csv
+INT-2024-0140;M031;19/11/2024 12:09;19/11/2024 22:50;Hydraulique;Hugo Lambert;153,53;interventions_2024_11.csv
+INT-2024-0141;M007;20/11/2024 10:53;20/11/2024 21:38;Monnayeur / paiement;Hugo Lambert;121,84;interventions_2024_11.csv
+INT-2024-0142;M005;23/11/2024 11:15;24/11/2024 01:06;Connectivité;Lucas Petit;45,68;interventions_2024_11.csv
+INT-2024-0143;M024;01/12/2024 09:33;01/12/2024 22:31;Connectivité;Sofiane Haddad;41,58;interventions_2024_12.csv
+INT-2024-0144;M002;07/12/2024 12:00;09/12/2024 06:10;Réfrigération;Yanis Robert;261,42;interventions_2024_12.csv
+INT-2024-0145;M031;11/12/2024 14:49;11/12/2024 22:03;Distribution;Yanis Robert;74,94;interventions_2024_12.csv
+INT-2024-0146;M012;16/12/2024 12:32;19/12/2024 02:21;Électrique;Hugo Lambert;175,72;interventions_2024_12.csv
+INT-2024-0147;M002;21/12/2024 13:44;22/12/2024 20:27;Réfrigération;Sofiane Haddad;164,78;interventions_2024_12.csv
+INT-2024-0148;M004;23/12/2024 07:15;23/12/2024 11:29;Monnayeur / paiement;Hugo Lambert;103,96;interventions_2024_12.csv
+INT-2024-0149;M013;23/12/2024 17:17;24/12/2024 06:49;Monnayeur / paiement;Yanis Robert;175,81;interventions_2024_12.csv
+INT-2024-0150;M043;27/12/2024 15:30;30/12/2024 17:13;Réfrigération;Lucas Petit;401,88;interventions_2024_12.csv
+INT-2025-0001;M034;02/01/2025 23:10;03/01/2025 21:51;Hydraulique;Hugo Lambert;85,62;interventions_2025_01.csv
+INT-2025-0002;M016;06/01/2025 14:50;07/01/2025 21:46;Connectivité;Yanis Robert;56,37;interventions_2025_01.csv
+INT-2025-0003;M021;12/01/2025 08:44;12/01/2025 13:04;Distribution;Yanis Robert;92,53;interventions_2025_01.csv
+INT-2025-0004;M005;13/01/2025 19:28;15/01/2025 00:15;Électrique;Hugo Lambert;187,02;interventions_2025_01.csv
+INT-2025-0005;M025;14/01/2025 09:24;14/01/2025 19:22;Monnayeur / paiement;Lucas Petit;121,51;interventions_2025_01.csv
+INT-2025-0006;M018;17/01/2025 12:58;19/01/2025 05:30;Réfrigération;Hugo Lambert;218,78;interventions_2025_01.csv
+INT-2025-0007;M032;20/01/2025 11:26;20/01/2025 19:54;Monnayeur / paiement;Lucas Petit;97,17;interventions_2025_01.csv
+INT-2025-0008;M039;20/01/2025 16:13;20/01/2025 22:15;Monnayeur / paiement;Sofiane Haddad;118,23;interventions_2025_01.csv
+INT-2025-0009;M032;21/01/2025 12:15;21/01/2025 23:50;Monnayeur / paiement;Sofiane Haddad;135,45;interventions_2025_01.csv
+INT-2025-0010;M010;23/01/2025 12:13;23/01/2025 17:33;Distribution;Sofiane Haddad;52,48;interventions_2025_01.csv
+INT-2025-0011;M005;29/01/2025 13:01;29/01/2025 15:57;Monnayeur / paiement;Sofiane Haddad;85,29;interventions_2025_01.csv
+INT-2025-0012;M012;04/02/2025 18:07;07/02/2025 13:23;Réfrigération;Sofiane Haddad;292,07;interventions_2025_02.csv
+INT-2025-0013;M031;08/02/2025 16:46;09/02/2025 02:57;Connectivité;Sofiane Haddad;69,32;interventions_2025_02.csv
+INT-2025-0014;M040;11/02/2025 12:24;12/02/2025 09:40;Monnayeur / paiement;Hugo Lambert;168,92;interventions_2025_02.csv
+INT-2025-0015;M036;11/02/2025 16:02;13/02/2025 00:02;Électrique;Lucas Petit;225,89;interventions_2025_02.csv
+INT-2025-0016;M043;15/02/2025 19:51;17/02/2025 10:01;Réfrigération;Hugo Lambert;286,65;interventions_2025_02.csv
+INT-2025-0017;M011;17/02/2025 16:37;21/02/2025 08:27;Réfrigération;Sofiane Haddad;297,75;interventions_2025_02.csv
+INT-2025-0018;M028;17/02/2025 20:57;17/02/2025 23:06;Distribution;Sofiane Haddad;82,41;interventions_2025_02.csv
+INT-2025-0019;M023;20/02/2025 14:29;21/02/2025 08:07;Monnayeur / paiement;Lucas Petit;165,66;interventions_2025_02.csv
+INT-2025-0020;M043;23/02/2025 20:13;26/02/2025 23:59;Réfrigération;Lucas Petit;255,13;interventions_2025_02.csv
+INT-2025-0021;M016;24/02/2025 11:59;25/02/2025 05:27;Connectivité;Yanis Robert;52,42;interventions_2025_02.csv
+INT-2025-0022;M012;24/02/2025 22:06;28/02/2025 14:08;Réfrigération;Lucas Petit;226,95;interventions_2025_02.csv
+INT-2025-0023;M039;28/02/2025 11:01;28/02/2025 21:22;Hydraulique;Yanis Robert;170,66;interventions_2025_02.csv
+INT-2025-0024;M043;01/03/2025 19:52;04/03/2025 03:19;Réfrigération;Lucas Petit;195,1;interventions_2025_03.csv
+INT-2025-0025;M029;04/03/2025 21:28;07/03/2025 09:25;Électrique;Sofiane Haddad;254,78;interventions_2025_03.csv
+INT-2025-0026;M011;07/03/2025 14:56;09/03/2025 04:23;Réfrigération;Lucas Petit;287,67;interventions_2025_03.csv
+INT-2025-0027;M020;09/03/2025 21:35;09/03/2025 23:51;Monnayeur / paiement;Lucas Petit;117,72;interventions_2025_03.csv
+INT-2025-0028;M009;12/03/2025 13:22;13/03/2025 02:19;Monnayeur / paiement;Yanis Robert;171,95;interventions_2025_03.csv
+INT-2025-0029;M030;15/03/2025 15:05;16/03/2025 01:53;Hydraulique;Lucas Petit;144,05;interventions_2025_03.csv
+INT-2025-0030;M038;18/03/2025 15:07;19/03/2025 18:27;Réfrigération;Hugo Lambert;289,43;interventions_2025_03.csv
+INT-2025-0031;M043;19/03/2025 11:36;22/03/2025 00:12;Réfrigération;Hugo Lambert;204,33;interventions_2025_03.csv
+INT-2025-0032;M025;24/03/2025 14:47;24/03/2025 19:41;Monnayeur / paiement;Hugo Lambert;108,33;interventions_2025_03.csv
+INT-2025-0033;M022;25/03/2025 12:07;25/03/2025 17:13;Distribution;Lucas Petit;49,44;interventions_2025_03.csv
+INT-2025-0034;M013;27/03/2025 11:27;27/03/2025 23:37;Connectivité;Sofiane Haddad;63,24;interventions_2025_03.csv
+INT-2025-0035;M005;27/03/2025 13:56;27/03/2025 16:57;Distribution;Sofiane Haddad;49,9;interventions_2025_03.csv
+INT-2025-0036;M037;28/03/2025 15:11;29/03/2025 10:57;Connectivité;Hugo Lambert;48,36;interventions_2025_03.csv
+INT-2025-0037;M012;29/03/2025 17:14;31/03/2025 20:56;Réfrigération;Hugo Lambert;208;interventions_2025_03.csv
+INT-2025-0038;M028;01/04/2025 17:02;02/04/2025 01:48;Monnayeur / paiement;Hugo Lambert;136,04;interventions_2025_04.csv
+INT-2025-0039;M027;03/04/2025 09:42;04/04/2025 21:24;Connectivité;Hugo Lambert;59,23;interventions_2025_04.csv
+INT-2025-0040;M035;08/04/2025 17:07;09/04/2025 14:11;Réfrigération;Hugo Lambert;201,84;interventions_2025_04.csv
+INT-2025-0041;M013;09/04/2025 09:14;09/04/2025 15:49;Hydraulique;Lucas Petit;191,34;interventions_2025_04.csv
+INT-2025-0042;M010;14/04/2025 09:20;14/04/2025 15:40;Électrique;Lucas Petit;238,6;interventions_2025_04.csv
+INT-2025-0043;M031;15/04/2025 15:10;15/04/2025 20:12;Distribution;Yanis Robert;73,74;interventions_2025_04.csv
+INT-2025-0044;M029;18/04/2025 13:28;17/04/2025 04:34;Monnayeur / paiement;Yanis Robert;124,27;interventions_2025_04.csv
+INT-2025-0045;M011;22/04/2025 07:33;24/04/2025 01:39;Réfrigération;Hugo Lambert;218,93;interventions_2025_04.csv
+INT-2025-0046;M019;22/04/2025 12:25;22/04/2025 18:04;Distribution;Yanis Robert;42,62;interventions_2025_04.csv
+INT-2025-0047;M011;22/04/2025 13:00;28/04/2025 00:07;Réfrigération;Lucas Petit;213,7;interventions_2025_04.csv
+INT-2025-0048;M011;23/04/2025 14:09;26/04/2025 17:01;Réfrigération;Yanis Robert;206,86;interventions_2025_04.csv
+INT-2025-0049;M003;30/04/2025 12:08;30/04/2025 21:26;Distribution;Yanis Robert;63,13;interventions_2025_04.csv
+INT-2025-0050;M012;02/05/2025 21:21;04/05/2025 08:39;Réfrigération;Lucas Petit;230,5;interventions_2025_05.csv
+INT-2025-0051;M034;03/05/2025 07:20;03/05/2025 18:36;Monnayeur / paiement;Yanis Robert;159,17;interventions_2025_05.csv
+INT-2025-0052;M009;05/05/2025 12:31;06/05/2025 16:14;Électrique;Lucas Petit;259,17;interventions_2025_05.csv
+INT-2025-0053;M039;07/05/2025 14:08;08/05/2025 15:39;Électrique;Yanis Robert;193,03;interventions_2025_05.csv
+INT-2025-0054;M035;09/05/2025 17:59;09/05/2025 22:31;Distribution;Lucas Petit;53,02;interventions_2025_05.csv
+INT-2025-0055;M008;12/05/2025 15:45;12/05/2025 23:34;Hydraulique;Lucas Petit;195,66;interventions_2025_05.csv
+INT-2025-0056;M011;19/05/2025 10:57;21/05/2025 16:02;Réfrigération;Yanis Robert;175,97;interventions_2025_05.csv
+INT-2025-0057;M023;23/05/2025 16:05;27/05/2025 10:35;Réfrigération;Sofiane Haddad;433,49;interventions_2025_05.csv
+INT-2025-0058;M043;24/05/2025 13:33;26/05/2025 01:57;Réfrigération;Yanis Robert;372,38;interventions_2025_05.csv
+INT-2025-0059;M003;24/05/2025 20:06;25/05/2025 06:37;Monnayeur / paiement;Sofiane Haddad;85,53;interventions_2025_05.csv
+INT-2025-0060;M030;27/05/2025 08:25;27/05/2025 20:57;Hydraulique;Hugo Lambert;174,6;interventions_2025_05.csv
+INT-2025-0061;M014;27/05/2025 10:00;27/05/2025 12:37;Distribution;Lucas Petit;65,86;interventions_2025_05.csv
+INT-2025-0062;M021;29/05/2025 00:36;30/05/2025 22:24;Électrique;Yanis Robert;194,27;interventions_2025_05.csv
+INT-2025-0063;M025;03/06/2025 10:25;03/06/2025 21:04;Électrique;Lucas Petit;141,6;interventions_2025_06.csv
+INT-2025-0064;M023;06/06/2025 10:05;07/06/2025 01:48;Distribution;Lucas Petit;66,72;interventions_2025_06.csv
+INT-2025-0065;M016;07/06/2025 07:22;08/06/2025 15:17;Hydraulique;Lucas Petit;159,57;interventions_2025_06.csv
+INT-2025-0066;M011;07/06/2025 14:08;09/06/2025 08:41;Réfrigération;Hugo Lambert;386,55;interventions_2025_06.csv
+INT-2025-0067;M040;11/06/2025 17:46;11/06/2025 22:35;Distribution;Hugo Lambert;36,43;interventions_2025_06.csv
+INT-2025-0068;M002;13/06/2025 14:21;15/06/2025 07:44;Réfrigération;Hugo Lambert;212,52;interventions_2025_06.csv
+INT-2025-0069;M043;16/06/2025 21:45;17/06/2025 05:51;Monnayeur / paiement;Sofiane Haddad;201,23;interventions_2025_06.csv
+INT-2025-0070;M014;17/06/2025 15:46;17/06/2025 23:59;Distribution;Yanis Robert;52,18;interventions_2025_06.csv
+INT-2025-0071;M015;17/06/2025 15:55;17/06/2025 23:22;Distribution;Lucas Petit;91,1;interventions_2025_06.csv
+INT-2025-0072;M010;20/06/2025 07:23;20/06/2025 20:00;Monnayeur / paiement;Yanis Robert;97,38;interventions_2025_06.csv
+INT-2025-0073;M029;23/06/2025 13:24;23/06/2025 17:16;Distribution;Hugo Lambert;67,26;interventions_2025_06.csv
+INT-2025-0074;M035;24/06/2025 15:27;25/06/2025 19:44;Réfrigération;Yanis Robert;220,68;interventions_2025_06.csv
+INT-2025-0075;M027;25/06/2025 10:30;25/06/2025 16:17;Distribution;Hugo Lambert;89,06;interventions_2025_06.csv
+INT-2025-0076;M002;25/06/2025 12:16;28/06/2025 13:26;Réfrigération;Hugo Lambert;254,35;interventions_2025_06.csv
+INT-2025-0077;M041;26/06/2025 16:58;27/06/2025 01:18;Hydraulique;Lucas Petit;108,72;interventions_2025_06.csv
+INT-2025-0078;M021;26/06/2025 22:53;27/06/2025 12:01;Monnayeur / paiement;Lucas Petit;112,37;interventions_2025_06.csv
+INT-2025-0079;M006;02/07/2025 10:09;03/07/2025 02:25;Hydraulique;Hugo Lambert;212,02;interventions_2025_07.csv
+INT-2025-0080;M039;03/07/2025 14:53;03/07/2025 20:27;Monnayeur / paiement;Sofiane Haddad;98,87;interventions_2025_07.csv
+INT-2025-0081;M033;07/07/2025 06:05;08/07/2025 03:52;Distribution;Yanis Robert;37,3;interventions_2025_07.csv
+INT-2025-0082;M030;08/07/2025 11:45;08/07/2025 19:44;Hydraulique;Sofiane Haddad;177,94;interventions_2025_07.csv
+INT-2025-0083;M011;09/07/2025 12:24;11/07/2025 23:28;Réfrigération;Sofiane Haddad;236,88;interventions_2025_07.csv
+INT-2025-0084;M028;09/07/2025 18:10;09/07/2025 21:43;Monnayeur / paiement;Lucas Petit;99,87;interventions_2025_07.csv
+INT-2025-0085;M038;11/07/2025 15:37;15/07/2025 19:33;Réfrigération;Sofiane Haddad;512,58;interventions_2025_07.csv
+INT-2025-0086;M023;17/07/2025 01:43;19/07/2025 05:19;Réfrigération;Yanis Robert;236,32;interventions_2025_07.csv
+INT-2025-0087;M021;27/07/2025 11:24;27/07/2025 21:42;Distribution;Yanis Robert;45,61;interventions_2025_07.csv
+INT-2025-0088;M030;29/07/2025 12:45;29/07/2025 15:40;Monnayeur / paiement;Yanis Robert;83,84;interventions_2025_07.csv
+INT-2025-0089;M002;30/07/2025 10:22;;Réfrigération;Yanis Robert;;interventions_2025_07.csv
+INT-2025-0090;M021;30/07/2025 14:19;30/07/2025 22:57;Monnayeur / paiement;Lucas Petit;107,7;interventions_2025_07.csv
+INT-2025-0091;M020;30/07/2025 16:11;28/07/2025 23:40;Distribution;Hugo Lambert;80,27;interventions_2025_07.csv
+INT-2025-0089;M002;30/07/2025 10:22;01/08/2025 08:46;Réfrigération;Yanis Robert;303,52;interventions_2025_08.csv
+INT-2025-0092;M024;01/08/2025 15:38;02/08/2025 07:59;Hydraulique;Sofiane Haddad;107,38;interventions_2025_08.csv
+INT-2025-0093;M004;03/08/2025 13:37;03/08/2025 20:53;Monnayeur / paiement;Sofiane Haddad;147,6;interventions_2025_08.csv
+INT-2025-0094;M028;23/08/2025 13:41;25/08/2025 13:50;Connectivité;Hugo Lambert;48,34;interventions_2025_08.csv
+INT-2025-0095;M001;24/08/2025 13:32;24/08/2025 17:11;Distribution;Sofiane Haddad;42,89;interventions_2025_08.csv
+INT-2025-0096;M002;25/08/2025 14:35;27/08/2025 01:51;Réfrigération;Sofiane Haddad;296,82;interventions_2025_08.csv
+INT-2025-0097;M005;29/08/2025 12:00;29/08/2025 15:27;Distribution;Hugo Lambert;54,55;interventions_2025_08.csv
+INT-2025-0098;M029;29/08/2025 16:29;29/08/2025 20:54;Distribution;Yanis Robert;47,62;interventions_2025_08.csv
+INT-2025-0099;M034;30/08/2025 14:30;;Connectivité;Hugo Lambert;;interventions_2025_08.csv
+INT-2025-0099;M034;30/08/2025 14:30;01/09/2025 02:10;Connectivité;Hugo Lambert;62,17;interventions_2025_09.csv
+INT-2025-0100;M009;03/09/2025 13:43;03/09/2025 20:58;Monnayeur / paiement;Yanis Robert;123,39;interventions_2025_09.csv
+INT-2025-0101;M012;09/09/2025 20:04;12/09/2025 13:54;Réfrigération;Sofiane Haddad;314,14;interventions_2025_09.csv
+INT-2025-0102;M031;12/09/2025 09:38;12/09/2025 19:11;Monnayeur / paiement;Hugo Lambert;78,96;interventions_2025_09.csv
+INT-2025-0103;M020;12/09/2025 11:43;13/09/2025 02:03;Monnayeur / paiement;Yanis Robert;197,97;interventions_2025_09.csv
+INT-2025-0104;M029;17/09/2025 13:36;17/09/2025 19:46;Distribution;Lucas Petit;96,75;interventions_2025_09.csv
+INT-2025-0105;M038;18/09/2025 11:44;21/09/2025 02:00;Réfrigération;Sofiane Haddad;502,62;interventions_2025_09.csv
+INT-2025-0106;M022;18/09/2025 11:47;20/09/2025 08:02;Réfrigération;Yanis Robert;220,52;interventions_2025_09.csv
+INT-2025-0107;M023;19/09/2025 15:28;21/09/2025 18:32;Réfrigération;Yanis Robert;400,67;interventions_2025_09.csv
+INT-2025-0108;M029;21/09/2025 16:17;21/09/2025 19:27;Distribution;Hugo Lambert;83,3;interventions_2025_09.csv
+INT-2025-0109;M042;23/09/2025 08:59;23/09/2025 23:28;Électrique;Sofiane Haddad;215;interventions_2025_09.csv
+INT-2025-0110;M012;23/09/2025 10:05;24/09/2025 10:53;Connectivité;Hugo Lambert;59,7;interventions_2025_09.csv
+INT-2025-0111;M043;24/09/2025 19:20;25/09/2025 15:13;Réfrigération;Lucas Petit;329,88;interventions_2025_09.csv
+INT-2025-0112;M035;27/09/2025 12:15;27/09/2025 17:38;Monnayeur / paiement;Yanis Robert;103,76;interventions_2025_09.csv
+INT-2025-0113;M029;01/10/2025 22:14;02/10/2025 02:25;Distribution;Yanis Robert;35,44;interventions_2025_10.csv
+INT-2025-0114;M028;02/10/2025 18:51;04/10/2025 05:59;Réfrigération;Yanis Robert;250,02;interventions_2025_10.csv
+INT-2025-0115;M038;06/10/2025 08:30;07/10/2025 23:42;Réfrigération;Hugo Lambert;360,98;interventions_2025_10.csv
+INT-2025-0116;M002;08/10/2025 12:19;10/10/2025 03:39;Réfrigération;Sofiane Haddad;224,01;interventions_2025_10.csv
+INT-2025-0117;M029;08/10/2025 19:45;08/10/2025 23:20;Monnayeur / paiement;Hugo Lambert;129,05;interventions_2025_10.csv
+INT-2025-0118;M026;09/10/2025 13:52;09/10/2025 17:48;Monnayeur / paiement;Hugo Lambert;91,94;interventions_2025_10.csv
+INT-2025-0119;M032;11/10/2025 13:35;12/10/2025 00:03;Réfrigération;Yanis Robert;260,36;interventions_2025_10.csv
+INT-2025-0120;M006;13/10/2025 10:41;13/10/2025 13:40;Monnayeur / paiement;Sofiane Haddad;100,18;interventions_2025_10.csv
+INT-2025-0121;M032;13/10/2025 15:06;14/10/2025 04:52;Monnayeur / paiement;Hugo Lambert;90,1;interventions_2025_10.csv
+INT-2025-0122;M011;14/10/2025 15:37;15/10/2025 18:50;Réfrigération;Yanis Robert;367,66;interventions_2025_10.csv
+INT-2025-0123;M014;16/10/2025 07:00;16/10/2025 10:48;Distribution;Yanis Robert;44,6;interventions_2025_10.csv
+INT-2025-0124;M033;20/10/2025 13:18;20/10/2025 19:34;Monnayeur / paiement;Yanis Robert;131,66;interventions_2025_10.csv
+INT-2025-0125;M026;21/10/2025 16:43;21/10/2025 19:30;Distribution;Hugo Lambert;105,91;interventions_2025_10.csv
+INT-2025-0126;M039;22/10/2025 13:20;23/10/2025 09:26;Connectivité;Hugo Lambert;42,7;interventions_2025_10.csv
+INT-2025-0127;M023;22/10/2025 16:55;25/10/2025 07:36;Réfrigération;Hugo Lambert;392,12;interventions_2025_10.csv
+INT-2025-0128;M012;26/10/2025 20:31;27/10/2025 05:35;Monnayeur / paiement;Yanis Robert;148,9;interventions_2025_10.csv
+INT-2025-0129;M039;27/10/2025 10:21;27/10/2025 21:02;Distribution;Lucas Petit;123;interventions_2025_10.csv
+INT-2025-0130;M033;27/10/2025 11:58;27/10/2025 15:07;Monnayeur / paiement;Sofiane Haddad;152,87;interventions_2025_10.csv
+INT-2025-0131;M014;28/10/2025 08:30;28/10/2025 11:10;Distribution;Sofiane Haddad;73,84;interventions_2025_10.csv
+INT-2025-0132;M043;01/11/2025 13:27;07/11/2025 04:53;Réfrigération;Hugo Lambert;232,6;interventions_2025_11.csv
+INT-2025-0133;M039;04/11/2025 10:06;04/11/2025 21:21;Distribution;Yanis Robert;51,68;interventions_2025_11.csv
+INT-2025-0134;M038;07/11/2025 10:48;08/11/2025 15:35;Réfrigération;Sofiane Haddad;217,99;interventions_2025_11.csv
+INT-2025-0135;M001;11/11/2025 09:02;12/11/2025 08:42;Connectivité;Sofiane Haddad;51,9;interventions_2025_11.csv
+INT-2025-0136;M004;13/11/2025 09:32;13/11/2025 17:12;Monnayeur / paiement;Lucas Petit;97,74;interventions_2025_11.csv
+INT-2025-0137;M023;14/11/2025 10:18;17/11/2025 00:32;Réfrigération;Yanis Robert;229,79;interventions_2025_11.csv
+INT-2025-0138;M020;17/11/2025 22:57;18/11/2025 05:15;Hydraulique;Hugo Lambert;168,8;interventions_2025_11.csv
+INT-2025-0139;M019;18/11/2025 12:17;18/11/2025 22:27;Distribution;Sofiane Haddad;119,02;interventions_2025_11.csv
+INT-2025-0140;M035;19/11/2025 11:00;19/11/2025 16:44;Monnayeur / paiement;Yanis Robert;89,07;interventions_2025_11.csv
+INT-2025-0141;M034;20/11/2025 08:41;20/11/2025 12:08;Distribution;Sofiane Haddad;45,26;interventions_2025_11.csv
+INT-2025-0142;M012;20/11/2025 21:59;22/11/2025 03:10;Monnayeur / paiement;Hugo Lambert;95,66;interventions_2025_11.csv
+INT-2025-0143;M018;22/11/2025 05:26;22/11/2025 09:45;Distribution;Hugo Lambert;60,07;interventions_2025_11.csv
+INT-2025-0144;M043;22/11/2025 19:09;26/11/2025 21:43;Réfrigération;Lucas Petit;307,72;interventions_2025_11.csv
+INT-2025-0145;M022;23/11/2025 20:57;24/11/2025 01:45;Distribution;Yanis Robert;79,93;interventions_2025_11.csv
+INT-2025-0146;M004;24/11/2025 10:30;24/11/2025 22:56;Hydraulique;Hugo Lambert;172,06;interventions_2025_11.csv
+INT-2025-0147;M027;26/11/2025 09:58;27/11/2025 05:37;Hydraulique;Lucas Petit;142,21;interventions_2025_11.csv
+INT-2025-0148;M035;27/11/2025 01:17;27/11/2025 16:50;Monnayeur / paiement;Yanis Robert;103,58;interventions_2025_11.csv
+INT-2025-0149;M012;30/11/2025 18:58;;Réfrigération;Yanis Robert;;interventions_2025_11.csv
+INT-2025-0150;M043;30/11/2025 22:52;;Réfrigération;Yanis Robert;;interventions_2025_11.csv
+INT-2025-0149;M012;30/11/2025 18:58;02/12/2025 22:05;Réfrigération;Yanis Robert;242,56;interventions_2025_12.csv
+INT-2025-0150;M043;30/11/2025 22:52;04/12/2025 12:38;Réfrigération;Yanis Robert;460,53;interventions_2025_12.csv
+INT-2025-0151;M027;01/12/2025 13:39;01/12/2025 21:59;Monnayeur / paiement;Lucas Petit;93,14;interventions_2025_12.csv
+INT-2025-0152;M003;04/12/2025 16:49;05/12/2025 03:20;Monnayeur / paiement;Yanis Robert;204,48;interventions_2025_12.csv
+INT-2025-0153;M042;05/12/2025 13:09;08/12/2025 08:04;Électrique;Hugo Lambert;237,86;interventions_2025_12.csv
+INT-2025-0154;M038;08/12/2025 14:26;09/12/2025 22:07;Réfrigération;Hugo Lambert;304,22;interventions_2025_12.csv
+INT-2025-0155;M027;12/12/2025 09:39;12/12/2025 19:45;Distribution;Hugo Lambert;96,92;interventions_2025_12.csv
+INT-2025-0156;M032;12/12/2025 18:10;14/12/2025 14:59;Réfrigération;Sofiane Haddad;252,95;interventions_2025_12.csv
+INT-2025-0157;M037;16/12/2025 13:22;17/12/2025 22:52;Électrique;Sofiane Haddad;246,14;interventions_2025_12.csv
+INT-2025-0158;M028;18/12/2025 12:25;19/12/2025 07:35;Connectivité;Hugo Lambert;71,14;interventions_2025_12.csv
+INT-2025-0159;M015;23/12/2025 14:22;23/12/2025 18:14;Monnayeur / paiement;Sofiane Haddad;123,72;interventions_2025_12.csv
+INT-2025-0160;M043;30/12/2025 16:20;;Réfrigération;Yanis Robert;;interventions_2025_12.csv
+INT-2025-0161;M005;31/12/2025 18:05;;Monnayeur / paiement;Hugo Lambert;;interventions_2025_12.csv

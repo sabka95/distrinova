@@ -1,0 +1,40 @@
+﻿id_produit;libelle;categorie;prix_achat_ht;prix_vente_ht;actif
+P001;Expresso;Boisson chaude;0,11;0,6;O
+P002;Café long;Boisson chaude;0,1;0,6;O
+P003;Café crème;Boisson chaude;0,16;0,7;O
+P004;Cappuccino;Boisson chaude;0,19;0,8;O
+P005;Chocolat chaud;Boisson chaude;0,17;0,8;O
+P006;Thé;Boisson chaude;0,08;0,6;O
+P007;Café vanille;Boisson chaude;0,2;0,7;N
+P008;Latte vanille;Boisson chaude;0,22;0,9;O
+P009;Potage;Boisson chaude;0,24;1;O
+P010;Eau minérale 50cl;Boisson fraîche;0,22;0,9;O
+P011;Eau gazeuse 50cl;Boisson fraîche;0,28;1;O
+P012;Cola 33cl;Boisson fraîche;0,42;1,3;O
+P013;Cola zéro 33cl;Boisson fraîche;0,42;1,3;O
+P014;Soda orange 33cl;Boisson fraîche;0,4;1,3;O
+P015;Thé glacé pêche 33cl;Boisson fraîche;0,45;1,4;O
+P016;Jus d'orange 25cl;Boisson fraîche;0,55;1,5;O
+P017;Boisson énergisante 25cl;Boisson fraîche;0,78;1,9;O
+P018;Eau aromatisée citron 50cl;Boisson fraîche;0,4;1,2;O
+P019;Boisson isotonique 50cl;Boisson fraîche;0,7;1,8;O
+P020;Barre chocolat caramel;Snack sucré;0,42;1,2;O
+P021;Barre céréales;Snack sucré;0,38;1,1;O
+P022;Biscuits chocolat;Snack sucré;0,4;1,2;O
+P023;Gaufre;Snack sucré;0,35;1,1;O
+P024;Madeleines;Snack sucré;0,3;1;O
+P025;Cookies;Snack sucré;0,45;1,3;O
+P026;Bonbons gélifiés;Snack sucré;0,4;1,2;O
+P027;Compote à boire;Snack sucré;0,4;1,2;O
+P028;Barre protéinée;Snack sucré;0,95;2,2;O
+P029;Chips nature 45g;Snack salé;0,36;1,2;O
+P030;Chips paprika 45g;Snack salé;0,36;1,2;O
+P031;Crackers salés;Snack salé;0,39;1,1;O
+P032;Cacahuètes grillées;Snack salé;0,42;1,3;O
+P033;Mélange fruits secs;Snack salé;0,8;1,8;O
+P034;Sandwich jambon-beurre;Frais;1,6;3,5;O
+P035;Sandwich poulet crudités;Frais;1,85;3,9;O
+P036;Wrap poulet;Frais;2;4,2;O
+P037;Salade pâtes;Frais;2,1;4,5;O
+P038;Salade quinoa;Frais;2,4;4,9;O
+P039;Yaourt aux fruits;Frais;0,55;1,5;O

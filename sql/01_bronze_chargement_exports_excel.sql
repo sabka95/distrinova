@@ -1,4 +1,4 @@
-﻿/* =====================================================================
+/* =====================================================================
    DistriNova | 01 - Couche BRONZE : chargement des 5 exports Excel
    ---------------------------------------------------------------------
    Fourni avec le kit. À exécuter APRÈS la phase 1 (Excel), quand les
@@ -11,6 +11,11 @@
    ===================================================================== */
 USE DistriNova;
 GO
+
+-- Une erreur annule tous les chargements et conserve les tables précédentes.
+SET XACT_ABORT ON;
+BEGIN TRY
+    BEGIN TRANSACTION;
 
 DROP TABLE IF EXISTS bronze.sites;
 CREATE TABLE bronze.sites (
@@ -26,12 +31,9 @@ CREATE TABLE bronze.sites (
     taux_commission    NVARCHAR(20),
     commercial         NVARCHAR(100)
 );
-GO
 BULK INSERT bronze.sites
 FROM 'C:\distrinova\data\clean\sites_clean.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ';', ROWTERMINATOR = '\n', CODEPAGE = '65001');
-GO
-
 DROP TABLE IF EXISTS bronze.machines;
 CREATE TABLE bronze.machines (
     id_machine        NVARCHAR(10),
@@ -44,12 +46,9 @@ CREATE TABLE bronze.machines (
     cout_mensuel_ht   NVARCHAR(20),
     statut            NVARCHAR(20)
 );
-GO
 BULK INSERT bronze.machines
 FROM 'C:\distrinova\data\clean\machines_clean.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ';', ROWTERMINATOR = '\n', CODEPAGE = '65001');
-GO
-
 DROP TABLE IF EXISTS bronze.produits;
 CREATE TABLE bronze.produits (
     id_produit    NVARCHAR(10),
@@ -59,12 +58,9 @@ CREATE TABLE bronze.produits (
     prix_vente_ht NVARCHAR(20),
     actif         NVARCHAR(5)
 );
-GO
 BULK INSERT bronze.produits
 FROM 'C:\distrinova\data\clean\produits_clean.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ';', ROWTERMINATOR = '\n', CODEPAGE = '65001');
-GO
-
 DROP TABLE IF EXISTS bronze.interventions;
 CREATE TABLE bronze.interventions (
     id_ticket      NVARCHAR(20),
@@ -76,24 +72,18 @@ CREATE TABLE bronze.interventions (
     cout_ht        NVARCHAR(20),
     fichier_source NVARCHAR(100)
 );
-GO
 BULK INSERT bronze.interventions
 FROM 'C:\distrinova\data\clean\interventions_clean.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ';', ROWTERMINATOR = '\n', CODEPAGE = '65001');
-GO
-
 DROP TABLE IF EXISTS bronze.objectifs;
 CREATE TABLE bronze.objectifs (
     commercial     NVARCHAR(100),
     mois           NVARCHAR(30),
     objectif_ca_ht NVARCHAR(20)
 );
-GO
 BULK INSERT bronze.objectifs
 FROM 'C:\distrinova\data\clean\objectifs_clean.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ';', ROWTERMINATOR = '\n', CODEPAGE = '65001');
-GO
-
 /* Contrôle des volumes. Attendu : sites 26 ; machines 43 ; produits 39 ;
    interventions 321 ; objectifs 72 */
 SELECT 'bronze.sites' AS table_bronze, COUNT(*) AS nb_lignes FROM bronze.sites
@@ -101,9 +91,13 @@ UNION ALL SELECT 'bronze.machines', COUNT(*) FROM bronze.machines
 UNION ALL SELECT 'bronze.produits', COUNT(*) FROM bronze.produits
 UNION ALL SELECT 'bronze.interventions', COUNT(*) FROM bronze.interventions
 UNION ALL SELECT 'bronze.objectifs', COUNT(*) FROM bronze.objectifs;
-GO
-
 /* Aperçu : les accents doivent s'afficher correctement (ex. « Hôtel d'agglomération »).
    Sinon, ton export n'est pas en UTF-8 : réenregistre-le en « CSV UTF-8 ». */
 SELECT TOP (5) * FROM bronze.sites;
-GO
+
+    COMMIT TRANSACTION;
+END TRY
+BEGIN CATCH
+    IF XACT_STATE() <> 0 ROLLBACK TRANSACTION;
+    THROW;
+END CATCH;
